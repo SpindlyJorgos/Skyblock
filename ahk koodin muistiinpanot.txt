@@ -1,0 +1,6 @@
+/garden tai /warp garden
+
+stop ja samalle inviin painaa wasd että se ei liiku enään
+
+start stop nappi
+
